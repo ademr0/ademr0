@@ -20,5 +20,3 @@ I am a man from Indonesia who has interest in programming and technology. I alwa
 ## Stats
 
 ![Metrics](github-metrics.svg)
-
-.
