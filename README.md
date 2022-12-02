@@ -1,7 +1,7 @@
 ![GitHub Snake Light](https://raw.githubusercontent.com/ademr0/ademr0/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://raw.githubusercontent.com/ademr0/ademr0/snake/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
-# Hi 👋, I'm Dani
+# Hi 👋, I'm Ramdani
 
 I am a young man from Indonesia who has interest in programming and technology. I always take my time to write some open source projects, because from there I can learn more about programming and technology.
 
