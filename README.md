@@ -1,1 +1,1 @@
-# Intro
+![Metrics](github-metrics.svg)
