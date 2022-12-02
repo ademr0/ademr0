@@ -24,7 +24,6 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
-
           # Options
           user: ademr0
           template: classic
