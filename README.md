@@ -1,5 +1,5 @@
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://raw.githubusercontent.com/ademr0/ademr0/snake/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://raw.githubusercontent.com/ademr0/ademr0/snake/github-snake-dark.svg#gh-dark-mode-only)
 
 # Hi 👋, I'm Dani
 
