@@ -3,7 +3,7 @@
 
 # Hi 👋, I'm Ramdani
 
-I am a man from Indonesia who has interest in programming and technology. I always take my time to write some open source projects, because from there I can learn more about programming and technology.
+I'm from Indonesia, and I'm really into programming and technology. I love writing open source projects because it's a great way for me to learn more.
 
 <p align="center"> 
   Visitor count<br>
